@@ -1,0 +1,12 @@
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\obj\Debug\Solidos en revolucion.csproj.AssemblyReference.cache
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\obj\Debug\Solidos_en_revolucion.Form1.resources
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\obj\Debug\Solidos_en_revolucion.Properties.Resources.resources
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\obj\Debug\Solidos en revolucion.csproj.GenerateResource.cache
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\obj\Debug\Solidos en revolucion.csproj.CoreCompileInputs.cache
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\bin\Debug\Solidos en revolucion.exe.config
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\bin\Debug\Solidos en revolucion.exe
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\bin\Debug\Solidos en revolucion.pdb
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\bin\Debug\Graphics3DS.dll
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\obj\Debug\Solidos en revolucion.csproj.CopyComplete
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\obj\Debug\Solidos en revolucion.exe
+D:\Users\leowo\Documents\Programas\CSharp\Solidos en revolucion\obj\Debug\Solidos en revolucion.pdb
